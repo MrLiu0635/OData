@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Inspur.Ecp.Caf.EntityFramework.Api" Version="1.0.0-alpha-1809040205" />
+    <PackageReference Include="Inspur.Ecp.Caf.EntityFramework.EFAdaptor" Version="1.0.0-alpha-1809030513" />
+    <PackageReference Include="Inspur.Gsp.OData.Api" Version="1.0.0-alpha-1809041516" />
+    <PackageReference Include="Inspur.Gsp.OData.EF.Util" Version="1.0.0-alpha-1809041115" />
+    <PackageReference Include="Microsoft.AspNetCore.OData" Version="7.0.1" />
+  </ItemGroup>
+
+</Project>
